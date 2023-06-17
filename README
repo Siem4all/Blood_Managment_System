@@ -1,0 +1,44 @@
+###################
+How to install this project
+###################
+
+1. Download or Clone the project and paste it either to your xampp/htdocs or wamp/www folder if you have downloaded xamp or wamp server unless download either of them
+
+2. Create Database with the name blood and import the blood.sql to the database you created
+
+3.(optional) For password resetting,login to your google account, make you email less secure, enable two verification and create a password
+
+4. (optional) Copy the code which is generated and paste it in the password field of Blood_Managment_System/application/models
+/User_model.php
+
+5. (optional) Change the admin@gmail.com by your email
+
+6.The Project has six actors who have their own role in the project and to login you can use the following emails and password:-
+
+  ====Admin Login====
+  Emaill:admin@gmail.com
+==========================
+
+ ====Inventory Manager Login====
+  Emaill:inventory@gmail.com
+==========================
+
+ ====Donor Login====
+  Emaill:donor@gmail.com
+==========================
+
+ ====Hospital Login====
+  Emaill:hospital@gmail.com
+==========================
+
+ ====Nurse Login====
+  Emaill:nurse@gmail.com
+==========================
+
+ ====Lab Technician Login====
+  Emaill:lab@gmail.com
+==========================
+
+Password:Siem@123
+
+###################
