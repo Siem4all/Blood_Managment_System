@@ -2,7 +2,7 @@
 How to install this project
 ###################
 
-1. Download or Clone the project and paste it either to your xampp/htdocs or wamp/www folder if you have downloaded xamp or wamp server unless download either of them
+1. Download or Clone the project, rename it to blood and paste it either to your xampp/htdocs or wamp/www folder if you have downloaded xamp or wamp server unless download either of them
 
 2. Create Database with the name blood and import the blood.sql to the database you created
 
