@@ -13,9 +13,9 @@ How to install this project
 
 5. (optional) Change the admin@gmail.com by your email
 
-6.Write localhost/project name in the URL
+6. Write localhost/project name in the URL
 
-7. The Project has six actors who have their own role in the project and to login you can use the following emails and password:-
+7. Login credentials
 
   ====Admin Login====
 
