@@ -2,25 +2,26 @@
 How to install this project
 ###################
 
-1. Download or Clone the project, and rename it to blood
+1. Dwonload  the project and rename it to blood
 
-2. Download and install either `xampp <https://www.apachefriends.org/download.html>`_ or `wamp <https://sourceforge.net/projects/wampserver/>`_
-server if you haven't either of them
+2. Download Composer if you don't have it
 
-3. Paste the project either to your xampp/htdocs or wamp/www folder
+3. Download to install either xampp or wamp If you don't install either of them
 
-4. Create Database with the name "blood" and import the blood.sql to the database you created
+4. Paste the project in your either xampp/htdocs or wamp/www folder
 
-5.(optional) For password resetting,login to your google account, make your email less secure, enable two verification and create a password.
+5. Create database with the name blood and import the sql file from blood/blood.sql to the database you created
 
-6. (optional) Copy the code which is generated and paste it in the password field of blood/application/models
+6.(optional) For password resetting,login to your google account, make your email less secure, enable two verification and create a password.
+
+7. (optional) Copy the code which is generated and paste it in the password field of blood/application/models
 /User_model.php.
 
-7. (optional) Change the admin@gmail.com by your email.
+8. (optional) Change the admin@gmail.com by your email.
 
-8. Write localhost/blood in you browser URL.
+9. Write localhost/blood in you browser URL.
 
-9. Login credentials
+10. Login credentials
 
   ====Admin Login====
 
