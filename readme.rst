@@ -42,7 +42,8 @@ To download and use this project, follow these steps:
 
 Password:Siem@123
 
-# Prerequisites
+Prerequisites
+-----------------------
 Before you can run this PHP project, you need to have XAMPP or WAMP installed on your system.
 
 To install XAMPP or WAMP, follow these steps:
