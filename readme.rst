@@ -10,7 +10,7 @@ How to install this project
 
 4. Create database with the name blood and import the sql file from blood/blood.sql to the database you created
 
-5. Write localhost/blood in you browser URL.
+5. Write localhost/blood in you browser's URL.
 
 6. Login credentials
 
