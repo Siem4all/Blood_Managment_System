@@ -1,5 +1,5 @@
 Download and Installation
- ===========
+====================
 To download and use this project, follow these steps:
 
 1. Click on the green "Code" button at the top of the repository page. 
