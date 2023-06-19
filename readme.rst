@@ -12,16 +12,9 @@ How to install this project
 
 5. Create database with the name blood and import the sql file from blood/blood.sql to the database you created
 
-6.(optional) For password resetting,login to your google account, make your email less secure, enable two verification and create a password.
+6. Write localhost/blood in you browser URL.
 
-7. (optional) Copy the code which is generated and paste it in the password field of blood/application/models
-/User_model.php.
-
-8. (optional) Change the admin@gmail.com by your email.
-
-9. Write localhost/blood in you browser URL.
-
-10. Login credentials
+7. Login credentials
 
   ====Admin Login====
 
