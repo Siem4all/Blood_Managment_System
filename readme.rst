@@ -4,9 +4,9 @@ How to install this project
 
 1. Dwonload  the project and rename it to blood
 
-2. Download Composer if you don't have it
+2. If you do not download and  install `composer <https://getcomposer.org/Composer-Setup.exe>`_ ,download it to install
 
-3. Download to install either xampp or wamp If you don't install either of them
+3. Download either `xampp <https://www.apachefriends.org/download.html>`_ or `wampp <https://sourceforge.net/projects/wampserver/>`_ server if you do no have any of them
 
 4. Paste the project in your either xampp/htdocs or wamp/www folder
 
