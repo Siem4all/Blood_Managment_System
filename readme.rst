@@ -4,7 +4,7 @@ How to install this project
 
 1. Download or Clone the project, rename it to blood 
 
-2.if you have downloaded <a href="https://www.apachefriends.org/download.html">xampp</a> or <a href="https://sourceforge.net/projects/wampserver/">wamp</a> server unless download either of them
+2.if you have downloaded <a>xampp</a>   <a href="https://www.apachefriends.org/download.html">xampp</a> or <a href="https://sourceforge.net/projects/wampserver/">wamp</a> server unless download either of them
 
 3. Paste it either to your xampp/htdocs or wamp/www folder 
 
