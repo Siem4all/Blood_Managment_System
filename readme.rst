@@ -13,7 +13,7 @@ server if you haven't either of them.
 
 5.(optional) For password resetting,login to your google account, make your email less secure, enable two verification and create a password.
 
-6. (optional) Copy the code which is generated and paste it in the password field of Blood_Managment_System/application/models
+6. (optional) Copy the code which is generated and paste it in the password field of blood/application/models
 /User_model.php.
 
 7. (optional) Change the admin@gmail.com by your email.
