@@ -2,14 +2,14 @@
 How to install this project
 ###################
 
-1. Download or Clone the project, and rename it to blood.
+1. Download or Clone the project, and rename it to blood
 
 2. Download and install either `xampp <https://www.apachefriends.org/download.html>`_ or `wamp <https://sourceforge.net/projects/wampserver/>`_
-server if you haven't either of them.
+server if you haven't either of them
 
 3. Paste the project either to your xampp/htdocs or wamp/www folder
 
-4. Create Database with the name blood and import the blood.sql to the database you created.
+4. Create Database with the name blood and import the blood.sql to the database you created
 
 5.(optional) For password resetting,login to your google account, make your email less secure, enable two verification and create a password.
 
