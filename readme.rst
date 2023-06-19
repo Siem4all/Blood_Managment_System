@@ -8,6 +8,7 @@ How to install this project
 server if you haven't either of them.
 
 3. Paste the project either to your xampp/htdocs or wamp/www folder.
+###################
 
 4. Create Database with the name blood and import the blood.sql to the database you created.
 
