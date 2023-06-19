@@ -18,7 +18,7 @@ server if you haven't either of them
 
 7. (optional) Change the admin@gmail.com by your email.
 
-8. Write localhost/blood in the URL.
+8. Write localhost/blood in you browser URL.
 
 9. Login credentials
 
