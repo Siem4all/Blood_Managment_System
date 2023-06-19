@@ -2,7 +2,7 @@
 How to install this project
 ###################
 
-1. Dwonload  the project and rename it to blood
+1. Download  the project and rename it to blood
 
 2. If you do not download and  install `composer <https://getcomposer.org/Composer-Setup.exe>`_ ,download it to install
 
