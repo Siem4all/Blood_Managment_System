@@ -44,9 +44,9 @@ Password:Siem@123
 
 Prerequisites
 -----------------------
-Before you can run this PHP project, you need to have XAMPP or WAMP installed on your system.
+Before you can run this PHP project, you need to have XAMPP or WAMP server installed on your system.
 
-To install XAMPP or WAMP, follow these steps:
+To install XAMPP or WAMP server, follow these steps:
 
 1. Download the `xampp <https://www.apachefriends.org/download.html>`_ or `wampp <https://sourceforge.net/projects/wampserver/>`_ installer.
 
